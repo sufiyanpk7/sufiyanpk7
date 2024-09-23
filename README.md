@@ -13,7 +13,7 @@ I am a DevOps engineer with 5+ years of experience, a cloud architect by trainin
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=typescript&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-254bdd?style=flat&logo=css3) ![Python](https://img.shields.io/badge/-Python-2b5b83?style=flat&logo=python&logoColor=ffdf76)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyanpk7&layout=compact&hide=javascript,css,html,jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sufiyanpk7&layout=compact&hide=javascript,css,html,jupyter%20notebook,show_icons=true&theme=tokyonight)
 
 ### 🛠 Tech Stack and Tools
 
@@ -32,7 +32,7 @@ I am a DevOps engineer with 5+ years of experience, a cloud architect by trainin
 ### ❤️ GitHub Stats
 
 
-![Sufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufiyanpk7&show=discussions_started,prs_merged,prs_merged_percentage)
+![Sufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufiyanpk7&show=discussions_started,prs_merged,prs_merged_percentage,show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
 
