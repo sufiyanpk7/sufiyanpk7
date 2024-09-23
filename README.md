@@ -1,6 +1,13 @@
 ### Hi 👋
 
-I'm Muhammed Sufiyan , a DevOps engineer.
+I'm Muhammed Sufiyan PK , 
+
+## 🦸‍♂️ About me
+
+I am a DevOps engineer with 5+ years of experience, a cloud architect by training, a dedicated problem solver, and an advocate for innovative technology solutions
+
+## 💼 Employer
+- Currently, I am a Head Of DevOps at [2cloud](https://www.linkedin.com/company/2cloud/) 🌴 in Wayanad office
 
 ### ✍️ Languages
 
@@ -26,4 +33,8 @@ I'm Muhammed Sufiyan , a DevOps engineer.
 
 
 ![Sufiyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufiyanpk7&show=discussions_started,prs_merged,prs_merged_percentage)
+
+## 📫 How to reach me
+
+The best way it to find me on [linkedin](https://www.linkedin.com/in/sufiyanpk/).
 
